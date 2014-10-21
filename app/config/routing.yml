@@ -1,0 +1,4 @@
+soft_app:
+    resource: "@SoftAppBundle/Resources/config/routing.yml"
+    prefix:   /
+

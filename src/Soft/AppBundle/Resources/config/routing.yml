@@ -1,0 +1,3 @@
+soft_app_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: SoftAppBundle:Default:index }
